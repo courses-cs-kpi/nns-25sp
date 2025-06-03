@@ -26,3 +26,9 @@ title: Вступ
 : **ПР #1**{: .label .label-purple} **Знайомство з глибинним навчанням**
   : [[Деталі](https://drive.google.com/file/d/1QtdiXeRP_Mhh30pww4bGD5gCy1mH2V5s/view?usp=sharing)][[Промокод](https://docs.google.com/document/d/10Um1ISnlRiG0P8kFXx3XvUNq0kb4h9dQhVaAA4vcI6o/edit?usp=sharing)]
     : **Дедлайн**: 17 травня
+
+
+
+03 чер
+: **Лекція 4**{: .label .label-green } **Навчання нейронних мереж**
+  : [[HML](https://ykochura.github.io/nns-kpi/?p=lecture4.md#1)][[PDF](https://ykochura.github.io/nns-kpi/pdf/lecture4.pdf)]
